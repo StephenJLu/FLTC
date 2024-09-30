@@ -1,0 +1,10 @@
+.sass-cache/
+*.css.map
+*.sass.map
+*.scss.map
+/videos
+/archive
+/_notes
+dwsync.xml
+.htaccess.*
+.htaccess
